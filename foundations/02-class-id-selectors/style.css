@@ -1,0 +1,19 @@
+.red-bg {
+    background-color: rgba(255, 0, 0, 0.396);
+}
+
+#blue {
+    color:blue;
+    font-size: 30px;
+}
+
+#barbecue {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    background-color: rgba(37, 228, 37, 0.616);
+    font-weight: bolder;
+}
+
+.big-big-fontsize {
+    font-size: 20px;
+}
