@@ -1,0 +1,13 @@
+.yes-daddy {
+    background-color: #000;
+    color: white;
+}
+
+.no-daddy {
+    background-color: yellow;
+}
+
+.yes-daddy, .no-daddy {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
